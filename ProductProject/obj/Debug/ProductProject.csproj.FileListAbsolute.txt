@@ -10,3 +10,12 @@ C:\Users\MuratKarakus\source\repos\ProductProject\ProductProject\obj\Debug\Produ
 C:\Users\MuratKarakus\source\repos\ProductProject\ProductProject\obj\Debug\ProductProject.csproj.CopyComplete
 C:\Users\MuratKarakus\source\repos\ProductProject\ProductProject\obj\Debug\ProductProject.exe
 C:\Users\MuratKarakus\source\repos\ProductProject\ProductProject\obj\Debug\ProductProject.pdb
+C:\Users\MuratKarakus\source\repos\ProductProject\ProductProject\bin\Debug\Bll.dll
+C:\Users\MuratKarakus\source\repos\ProductProject\ProductProject\bin\Debug\Entity.dll
+C:\Users\MuratKarakus\source\repos\ProductProject\ProductProject\bin\Debug\Dal.dll
+C:\Users\MuratKarakus\source\repos\ProductProject\ProductProject\bin\Debug\Bll.pdb
+C:\Users\MuratKarakus\source\repos\ProductProject\ProductProject\bin\Debug\Bll.dll.config
+C:\Users\MuratKarakus\source\repos\ProductProject\ProductProject\bin\Debug\Entity.pdb
+C:\Users\MuratKarakus\source\repos\ProductProject\ProductProject\bin\Debug\Entity.dll.config
+C:\Users\MuratKarakus\source\repos\ProductProject\ProductProject\bin\Debug\Dal.pdb
+C:\Users\MuratKarakus\source\repos\ProductProject\ProductProject\bin\Debug\Dal.dll.config
